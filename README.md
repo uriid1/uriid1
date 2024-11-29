@@ -4,22 +4,19 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uriid1&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uriid1&theme=2077)
 
-**Что я делаю:** <br>
- 🖥️ Разрабатываю на Tarantool и Lua. <br>
- 📚 Иногда пишу полезные библиотеки. <br>
- 🎮 Пишу игры. <br>
- 🛠️ Изучаю электронику и технологии. <br>
-
-**Мой стиль:** <br>
-Я склонен к простым, но эффективным решениям. <br>
-Пытаюсь автоматизировать и упростить различные задачи.
+**Обо мне** <br>
+ 🖥️ Время от времени пишу на: Lua, Wiring, JS, Bash, C <br>
+ 📚 Иногда делаю полезные библиотеки <br>
+ 🎮 Неравнодушен к разработке игр <br>
+ 🛠️ Изучаю электронику и собираю роботов на микроконтроллерах <br>
 
 **Дополнительно:** <br>
-Мой бот в ТГ: https://t.me/niko_rp_bot <br>
+Мой бот в телеграме: https://t.me/niko_rp_bot <br>
 https://gist.github.com/uriid1 <br>
 https://pastebin.com/u/uriid1 <br>
 https://microvolnovka.itch.io <br>
 
+![Wiring](https://img.shields.io/badge/Wiring-%23121011.svg?style=for-the-badge&logo=arduino&logoColor=teal)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
