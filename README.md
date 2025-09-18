@@ -1,6 +1,6 @@
 ## Привет :>
 
-Я инженер-программист, специализирующийся на системном программировании, серверных сервисах и инструментах разработчика. 
+Инженер-программист, специализирующийся на системном программировании, серверных сервисах и инструментах разработчика. 
 Пишу библиотеки, низкоуровневые модули и экспериментальные проекты.
 
 ---
@@ -9,7 +9,7 @@
 
  - **Языки**: Lua, JavaScript, Bash, Wiring, C, Go
    - Основнвные: Lua, Bash 
- - **Backend & Databases**: Tarantool, nodejs, nginx, luvit, Redis, PostgreSQL
+ - **Backend & Databases**: Tarantool, Node.js, Nginx, Luvit, Redis, PostgreSQL, ClickHouse
  - **Networking:** HTTP, WebSockets, TCP/UDP
  - **Tools:** Git, Docker, Linux, GitHub Actions, e.t.c
  - **Интересы:** Разработка игр, эксперименты с железом, антибот системы
