@@ -10,8 +10,8 @@
  - **Языки**: Lua, JavaScript, Bash, Wiring, C, Go
    - Основнвные: Lua, Bash 
  - **Backend & Databases**: Tarantool, Node.js, Nginx, Luvit, Redis, PostgreSQL, ClickHouse
- - **Networking:** HTTP, WebSockets, TCP/UDP
- - **Tools:** Git, Docker, Linux, GitHub Actions, e.t.c
+ - **Networking:** HTTP/S, WebSockets, TCP/UDP
+ - **Tools:** Git, Docker, GitHub Actions, e.t.c
  - **Интересы:** Разработка игр, эксперименты с железом, антибот системы
 
 **Дополнительно**
