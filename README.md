@@ -21,7 +21,8 @@
 
 **Прочие ссылки**
 
- - **YouTube**: https://www.youtube.com/channel/UCavbbsypva_Zqvz92gQleMw
+ - **LuaRocks**: http://luarocks.org/modules/uriid1
+ - **YouTube**: https://www.youtube.com/@uriid1/videos
  - **Gist**: https://gist.github.com/uriid1
  - **Pastebin**: https://pastebin.com/u/uriid1
  - **Itch.io**: https://microvolnovka.itch.io
