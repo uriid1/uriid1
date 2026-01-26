@@ -1,6 +1,6 @@
 <p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
 
-<p align="center" style="font-size: 1.5em;"><strong>Что-то между инженер-программистом и сутулой собакой</strong></p>
+<p align="center" style="font-size: 1.5em;"><strong>Hello, World!</strong></p>
 
 <p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
 
