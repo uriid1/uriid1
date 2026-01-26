@@ -20,9 +20,9 @@
 **Работал / Работаю**
 
   - [Antibot](https://github.com/antibot-ai) - Разметка и фильтрация трафика.
-  - [Rwhologram](https://github.com/rwhologram) - Попытки деобфускации JS и поддержки тулчейна.
+  - [Rwhologram](https://github.com/rwhologram) - Деобфускация JS и поддержка тулчейна.
   - [TNT Bots](https://github.com/TNT-Bots) - Библиотека и toolchain для разработки телеграм ботов на Tarantool.
-  - [Flexible NGINX](https://github.com/f-ngx) - Секретные рецепты, модули и сборки Nginx.
+  - [Flexible NGINX](https://github.com/f-ngx) - Рецепты(секретные), модули и сборки Nginx.
 
 **Дополнительно**
  
