@@ -1,41 +1,79 @@
-<p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
+<p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
 
 <p align="center" style="font-size: 1.5em;"><strong>Hello, World!</strong></p>
 
-<p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
+<p align="center" style="font-size: 1.5em;">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<p>
 
-<p align="center">
-  <img src="pc.gif" alt="Video">
-</p>
 
-**Стек**
+## Мой стек
 
- - **Языки**: Lua, JavaScript, Bash, Wiring, C, Go
-   - Основнвные: GO, Lua, Luajit, Bash
- - **Backend & Databases**: Tarantool, Node.js, Nginx, Luvit, Redis, PostgreSQL, ClickHouse
- - **Networking:** HTTP/S, WebSockets, TCP/UDP
- - **Tools:** Git, Docker, GitHub Actions, Grafana, Chrome Tools, (any GNU toolchain), e.t.c
- - **Интересы:** Антибот системы, Телеграм боты, Сервера, Разработка игр, эксперименты с железом 
+**Языки программирования**
+  * Основные - Lua, Luajit, Go, Bash, njs
+  * Базовый опыт - JavaScript, C, Wiring
 
-**Работал / Работаю**
+**Backend и хранилища данных**
+  * Tarantool, Node.js, Luvit
+  * Nginx, Angie, Openresty
+  * Redis, PostgreSQL, ClickHouse
+
+**Сети и протоколы**
+  * HTTP / HTTPS, WebSocket, TCP / UDP
+
+**Инструменты разработки**
+  * git, curl, jq, ncat, ss, ip, top, xxd, gcc
+  * GNU toolchain
+  * Chrome DevTools
+
+**Прочие утилиты**
+  * npm, LuaRocks
+
+**Инфраструктура и CI/CD**
+  * Docker, GitHub Actions, кастомные скрипты
+
+**Метрики**
+  * Grafana
+  * Prometheus
+  * Custom logging
+
+**Архитектура и подходы**
+  * RESTful API
+  * long-polling
+  * Unix-way
+  * "тут конечно, можно понаписать всякого умного, но на всякое паттерное найдется антипаттерное :)"
+
+**Окружение / OS**
+  * Debian / Debian like linux
+  * Arch Linux
+  * SteamOs
+  * Manjaro
+
+**Интересы**
+  * Серверная разработка
+  * Антибот-системы и fingerprinting
+  * Telegram-боты
+  * Разработка игр
+  * Эксперименты с железом (не реверс)
+
+## Работал
 
   - [Antibot](https://github.com/antibot-ai) - Разметка и фильтрация трафика.
   - [Rwhologram](https://github.com/rwhologram) - Деобфускация JS и поддержка тулчейна.
   - [TNT Bots](https://github.com/TNT-Bots) - Библиотека и toolchain для разработки телеграм ботов на Tarantool.
   - [Flexible NGINX](https://github.com/f-ngx) - Рецепты(секретные), модули и сборки Nginx.
 
-**Дополнительно**
+## Дополнительно
  
  - **Пет-проект**: https://t.me/niko_rp_bot <br>
  - **Сайт**: https://niko-bot.ru
 
-**Прочие ссылки**
+## Прочие ссылки
 
  - **LuaRocks**: http://luarocks.org/modules/uriid1
  - **YouTube**: https://www.youtube.com/@uriid1/videos
  - **Gist**: https://gist.github.com/uriid1
  - **Pastebin**: https://pastebin.com/u/uriid1
  - **Itch.io**: https://microvolnovka.itch.io
+ - **GitVerse**: https://gitverse.ru/uriid1
 
 ## Статистика
 
