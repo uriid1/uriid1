@@ -22,6 +22,7 @@
 **Инструменты разработки**
   * git, curl, jq, ncat, ss, ip, top, xxd, gcc
   * GNU toolchain
+  * Swagger
   * Chrome DevTools
 
 **Прочие утилиты**
@@ -35,9 +36,14 @@
   * Prometheus
   * Custom logging
 
-**Архитектура и подходы**
+**Архитектура, паттерны, слои и подходы**
+  * Layered Architecture
+  * Clean Architecture (частично)
+  * Domain-Driven Design (частично)
+  * Service Layer Pattern
+  * Orchestration layer
   * RESTful API
-  * long-polling
+  * Long-polling, Webhook
   * Unix-way
   * "тут конечно, можно понаписать всякого умного, но на всякое паттерное найдется антипаттерное :)"
 
