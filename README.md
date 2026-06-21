@@ -8,7 +8,7 @@
 ## Мой стек
 
 **Языки программирования**
-  * Основные - Lua, Luajit, Go, Bash, njs
+  * Основные - Lua, Luajit, Go, Bash
   * Базовый опыт - JavaScript, C, Wiring
 
 **Backend и хранилища данных**
@@ -34,6 +34,8 @@
 **Метрики**
   * Grafana
   * Prometheus
+  * Vector
+  * Loki
   * Custom logging
 
 **Архитектура, паттерны, слои и подходы**
@@ -48,6 +50,7 @@
   * "тут конечно, можно понаписать всякого умного, но на всякое паттерное найдется антипаттерное :)"
 
 **Окружение / OS**
+  * Alpine
   * Debian / Debian like linux
   * Arch Linux
   * SteamOs
@@ -61,7 +64,6 @@
   * Эксперименты с железом (не реверс)
 
 ## Работал
-
   - [Antibot](https://github.com/antibot-ai) - Разметка и фильтрация трафика.
   - [Rwhologram](https://github.com/rwhologram) - Деобфускация JS и поддержка тулчейна.
   - [TNT Bots](https://github.com/TNT-Bots) - Библиотека и toolchain для разработки телеграм ботов на Tarantool.
@@ -73,7 +75,6 @@
  - **Сайт**: https://niko-bot.ru
 
 ## Прочие ссылки
-
  - **LuaRocks**: http://luarocks.org/modules/uriid1
  - **YouTube**: https://www.youtube.com/@uriid1/videos
  - **Gist**: https://gist.github.com/uriid1
